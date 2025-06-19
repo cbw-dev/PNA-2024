@@ -1,16 +1,16 @@
 --- 
-title: "NAME OF WORKSHOP YEAR"
-author: "Faculty: INSTRUCTOR AND TA NAMES"
-date: "DATES"
+title: "Pathways and Network Analysis 2024"
+author: "Faculty: Veronique Voisin, Ruth Isserline, Gary Bader, Lincoln Stein, Gregory Schwartz"
+date: "June 26, 2024 - June 28, 2024"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib, packages.bib]
-url: https://cbw-dev.github.io/bookdown-template/ # CHANGE THIS LINK TO YOUR LANDING PAGE LINK
+url: https://github.com/cbw-dev/PNA-2024 # CHANGE THIS LINK TO YOUR LANDING PAGE LINK
 cover-image: img/bioinformatics_logo.png
 description: |
-  Workshop website for the YEAR WORKSHOP Canadian Bioinformatics Workshop
+  Workshop website for the 2024 Pathway and Network Analysis Canadian Bioinformatics Workshop
 link-citations: yes
-github-repo: cbw-dev/bookdown-template # CHANGE THIS TO YOUR OWN REPO
+github-repo: cbw-dev/PNA-2024 # CHANGE THIS TO YOUR OWN REPO
 favicon: img/favicon.ico
 ---
 
@@ -18,18 +18,30 @@ favicon: img/favicon.ico
 
 # Workshop Info
 
-Welcome to the YEAR WORKSHOP Canadian Bioinformatics Workshop webpage!  
+Welcome to the 2024 Pathway and Network Analysis Canadian Bioinformatics Workshop webpage!  
 
-<!--## Class Photo
+## Class Photo
 
-After workshop concludes, YOUR EMBED CODE HERE-->
+<iframe src="https://drive.google.com/file/d/1rxG50WFQs0ti-l9dKmdU2c-n9iZwaZbb/preview" width="640" height="480" allow="autoplay"></iframe>
 
 ## Schedule
 
-<!--Copy paste a table into https://www.tablesgenerator.com/markdown_tables (select convert to markdown) to create a table in markdown.   
--->
+| **Time (Eastern)** |                            **Wednesday, June 26**                            | **Time (Eastern)** |                                         **Thursday, June 27**                                        | **Time (Eastern)** |                                                   **Module**                                                  |
+|:------------------:|:----------------------------------------------------------------------------:|:------------------:|:----------------------------------------------------------------------------------------------------:|:------------------:|:-------------------------------------------------------------------------------------------------------------:|
+|        8:30        |                              Arrivals & Check-in                             |        8:30        |                                               Arrivals                                               |        8:30        |                                                    Arrivals                                                   |
+|        9:00        |                             Welcome (Nia Hughes)                             |        9:00        |                 Module 4: More Depth on Pathway and Network Analysis (Lincoln Stein)                 |        9:00        | Module 7: Review of the tools in integrated workflow. Part1. (Veronique Voisin/Ruth Isserlin/Chaitra Sarathy) |
+|        9:30        |      Module 1: Introduction to pathway and network analysis (Gary Bader)     |                    |                                                                                                      |                    |                                                                                                               |
+|        10:00       |                                 Break (30min)                                |        10:00       |                                             Break (30min)                                            |        10:30       |                                                 Break (30min)                                                 |
+|        10:30       | Module 2: Finding over-represented pathways in gene lists (Veronique Voisin) |        10:30       |                            Module 4: Lab (Reactome FI) (Veronique Voisin)                            |        11:00       | Module 7: Review of the tools in integrated workflow. Part2. (Veronique Voisin/Ruth Isserlin/Chaitra Sarathy) |
+|        11:30       |                         Module 2 lab (Ruth Isserlin)                         |                    |                                                                                                      |                    |                                                                                                               |
+|        12:30       |                                  Lunch (1h)                                  |        12:30       |                                      Class Photo and Lunch (1h)                                      |        12:30       |                                           Survey and Closing Remarks                                          |
+|        13:30       |  Module 3: Network visualization and analysis with Cytoscape (Ruth Isserlin) |        13:30       | Module 5: Gene Function Prediction (recorded lecture + 15 min presentation + lab) (Veronique Voisin) |                    |                                                                                                               |
+|        14:30       |        Module3 Lab1 : Cytoscape basics. custom network(Ruth Isserlin)        |                    |                                                                                                      |                    |                                                                                                               |
+|        15:00       |                                 Break (30min)                                |        14:30       |                                             Break (30min)                                            |                    |                                                                                                               |
+|        15:30       |                    Module 3 part 2: EnrichmentMap lecture                    |        15:00       |                         Module 6: Cell-Cell Communication (Gregory Schwartz)                         |                    |                                                                                                               |
+|        16:00       |                Module 3 Lab 2: EnrichmentMap and AutoAnnotate                |        16:00       |                                    Module 6 lab (Veronique Voisin)                                   |                    |                                                                                                               |
+|        17:30       |                                   Finished                                   |        17:30       |                                               Finished                                               |                    |                                                                                                               |
 
 ## Pre-work
 
-<!--[You can find your pre-work here.](LINK TO PREWORK)
--->
+[You can find your pre-work here.](https://docs.google.com/forms/d/e/1FAIpQLSdknqfaPi-XJDeFwji5xga7rg-jdGiYsZWxW6zTCjjqbHcHsw/viewform)
