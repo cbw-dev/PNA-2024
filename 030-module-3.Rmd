@@ -2,5 +2,26 @@
 
 ## Lecture
 
+### Cytoscape Lecture
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/lYLwu6yOF2o?si=wv5NT2LjIaDt0hEl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br>
+
+<iframe src="https://drive.google.com/file/d/1yphXPw5x-5xoAXTF_0vIgLjKAr8282oM/preview" width="640" height="480" allow="autoplay"></iframe>
+
+### Enrichment Map Lecture
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/cc5AAzLllGw?si=MPFQv-LCSTBv4dHR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br>
+
+<iframe src="https://drive.google.com/file/d/19RoDflnINzvWcwFyngMN9Yz8KBDVnCAx/preview" width="640" height="480" allow="autoplay"></iframe>
 
 ## Lab
+
+### Cytoscape Lab
+
+### Enrichment Map Lab
+
+### Bonus Lab

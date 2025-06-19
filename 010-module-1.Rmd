@@ -4,10 +4,12 @@
 
 ## Pre-work Lecture
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PtWf-XSzUYc?si=RAvpVJKIOC-iQxRf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/PtWf-XSzUYc?si=RAvpVJKIOC-iQxRf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Lecture
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GLm_RWU4Ap4?si=tAJ6UeucIzjwqc2v" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/GLm_RWU4Ap4?si=tAJ6UeucIzjwqc2v" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br>
 
 <iframe src="https://drive.google.com/file/d/1RtgUfzJq7C8CLO3CHmBXe0k4KdnV3fhb/preview" width="640" height="480" allow="autoplay"></iframe>
